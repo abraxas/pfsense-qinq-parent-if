@@ -1,0 +1,2 @@
+#!/bin/sh
+printf '%s\n' 'PFSENSE-QINQ-PARENT-IF-WITNESS' > /oracle/PFSENSE-QINQ-PARENT-IF-WITNESS

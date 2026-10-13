@@ -1,0 +1,5 @@
+#!/bin/sh
+{
+	printf 'argc=%s argv=%s\n' "$#" "$*"
+} >> /oracle/ifconfig-calls
+exit 0
