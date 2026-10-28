@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/pfsense-qinq-parent-if">pfsense-qinq-parent-if</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/pfsense-qinq-parent-if"><strong>https://abraxaslabs.tech/research/pfsense-qinq-parent-if</strong></a>
+</p>
+
 
 # pfsense-qinq-parent-if
 
